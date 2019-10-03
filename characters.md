@@ -8,3 +8,5 @@
 
 ## Minor Characters
 
+[Cari Giovanni](/characters/cari-giovanni.md)  
+
