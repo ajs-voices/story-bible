@@ -3,8 +3,6 @@
 A Story Bible by AJ Hunter  
 
 [Characters](/characters.md)  
-[Locations](/locations.md)  
-[Books](/books.md)  
-[Notes](/notes.md)  
+[Locations](/locations.md)   
 [Organizations](/organizations.md)  
 [Lore](/lore.md)  
