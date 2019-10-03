@@ -1,5 +1,13 @@
 # Lore
 
+## Myths & Legends
+
+[Creation Myth](lore/creation.md)  
+[The First Ascendant](lore/the-first-ascendant.md)  
+[The Second Ascendant](lore/the-second-ascendant.md)  
+[The Third Ascendant Prophecy](lore/prophecy.md)  
+
+
 ## Races
 
 ### Orignal Races
@@ -19,3 +27,4 @@
 ### Limited Races
 
 [Ascendant](lore/races/ascendant.md)  
+
