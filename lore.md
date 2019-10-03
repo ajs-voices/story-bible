@@ -1,12 +1,11 @@
 # Lore
 
-## Myths & Legends
+## Myths, Legends and Prophecy  
 
 [Creation Myth](lore/creation.md)  
 [The First Ascendant](lore/the-first-ascendant.md)  
 [The Second Ascendant](lore/the-second-ascendant.md)  
 [The Third Ascendant Prophecy](lore/prophecy.md)  
-
 
 ## Races
 
@@ -24,7 +23,16 @@
 [Embraced Vampire](lore/races/embraced-vampire.md)  
 [Cursed Vampire](lore/races/cursed-vampire.md)  
 
-### Limited Races
+### Marionette Races
 
-[Ascendant](lore/races/ascendant.md)  
+[Angels/Demons](lore/races/angels-demons.md)  
+[Ghosts](lore/races/ghosts.md)  
+[Ascendant](lore/races/ascendant.md) - special  
 
+## Magic Systems
+
+[Magnus](lore/magnus.md)  
+[Paths](lore/paths.md)  
+[Wiccan](lore/wiccan.md)  
+[Bloodlines](lore/bloodlines.md)  
+[Runes](lore/runes.md)  
