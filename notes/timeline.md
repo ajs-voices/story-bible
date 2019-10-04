@@ -1,8 +1,8 @@
 # Timeline
 
 | Date | W | Moon Phase | |
-|------|---|------------| |
-| | | | Cari's born |
+|------|---|------------|-|
+|      |   |            | Cari's born |
 | | | | Tony's born |
 | | | | Cari and Tony meet|
 | | | | Cari rampages the village |
