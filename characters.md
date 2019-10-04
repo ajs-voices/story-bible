@@ -9,29 +9,20 @@
 ## Minor Characters
 
 [Cari Giovanni](/characters/cari-giovanni.md)  
-[Dorian Vega](/characters/dorian-vega.md)   
+[Dorian Vega](/characters/dorian-vega.md)*   
 [Dae'lin Rivera](/characters/minor-characters.md#daelin-rivera)  
 [Sage Morgan](/characters/minor-characters.md#sage-morgan)  
-[Kai Viddens](/characters/kai-viddens.md)  
-[Mr. ?? Grey](/characters/minor-characters.md#mr-grey)  
-
-## Dr. Margo Silverman
-
-## Ms. ?? Hall
-
-## Aaron Woolbright
-
-## Ross Cortes
-
-## Leanne Sétanta
-
-## Lenard ??
-
-## Mia ?? Hill
-
-## Jason Hill
-
-## Sasha ??
+[Kai Viddens](/characters/kai-viddens.md)*  
+[Mr. ?? Grey](/characters/minor-characters.md#mr--grey)  
+[Dr. Margo Silverman](/characters/margo-silverman.md)*  
+[Ms. ?? Hall](/characters/minor-characters.md#ms--hall)  
+[Aaron Woolbright](/characters/minor-characters.md#aaron-woolbright)  
+[Ross Cortes](/characters/minor-characters.md#ross-cortes)  
+[Leanne Sétanta](/characters/leanne-setanta.md)*  
+[Lenard ??](/characters/minor-characters.md#lenard-)  
+[Mia ?? Hill](/characters/minor-characters.md#mia--hill)  
+[Jason Hill](/characters/minor-characters.md#jason-hill)  
+[Sasha ??]/characters/minor-characters.md#sasha-)  
 
 ## Adrian Sheridan
 
@@ -110,7 +101,6 @@
 ## Allison Grey
 
 ## Nick ??
-
 
 ## Dan ??
 
