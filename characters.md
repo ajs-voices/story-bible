@@ -8,14 +8,12 @@
 
 ## Minor Characters
 
-[Cari Giovanni](/characters/cari-giovanni.md)
-[Dorian Vega](/characters/dorian-vega.md)  
-[Dae'lin Rivera](/characters/minor-characters.md#daelin-rivera)
-[Sage Morgan](/characters/minor-characters.md#sage-morgan)
-
-## Kai Viddens
-
-## Mr. ?? Grey
+[Cari Giovanni](/characters/cari-giovanni.md)  
+[Dorian Vega](/characters/dorian-vega.md)   
+[Dae'lin Rivera](/characters/minor-characters.md#daelin-rivera)  
+[Sage Morgan](/characters/minor-characters.md#sage-morgan)  
+[Kai Viddens](/characters/kai-viddens.md)  
+[Mr. ?? Grey](/characters/minor-characters.md#mr-grey)  
 
 ## Dr. Margo Silverman
 
