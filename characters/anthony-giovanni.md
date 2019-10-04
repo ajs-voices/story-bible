@@ -1,9 +1,6 @@
-# Anthony Giovanni
+# Anthony Giovanni II
 
 aka Ant, Del Figilo
-
-Anthony "Ant" Giovanni II
-aka Ant
 
 **Birth Date:** April 5, 1180
 
