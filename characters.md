@@ -6,94 +6,80 @@
 [Alex Kennedy](/characters/alex-kennedy.md)  
 [Anthony "Ant" Giovanni](/characters/anthony-giovanni.md)  
 
-## Minor Characters
+## Important Characters
 
 [Cari Giovanni](/characters/cari-giovanni.md)  
 [Dorian Vega](/characters/dorian-vega.md)*   
+[Kai Viddens](/characters/kai-viddens.md)* 
+[Leanne Sétanta](/characters/leanne-setanta.md)*  
+[Dr. Margo Silverman](/characters/margo-silverman.md)*  
+[Adrian Sheridan](/characters/adrian-sheridan.md)*  
+[Dominic Olmos](/characers/dominic-olmos.md)*  
+[Danny Morgan](/characters/danny-morgan.nd)*    
+[Michaela Donovan](/characters/michaela-donovan.md)*  
+[Poet Rhemus](/characters/poet-rhemus.md)*  
+[Laker Rivers](/characters/laker-rivers.md)*  
+[Rider Rivers](/characters/rider-rivers.md)*  
+[Ryan Elliot](/characters/ryan-elliot.md)*  
+[Ophelia](/characters/ophelia.md)*  
+
+## Recurring Characters
+
 [Dae'lin Rivera](/characters/minor-characters.md#daelin-rivera)  
 [Sage Morgan](/characters/minor-characters.md#sage-morgan)  
-[Kai Viddens](/characters/kai-viddens.md)*  
-[Mr. ?? Grey](/characters/minor-characters.md#mr--grey)  
-[Dr. Margo Silverman](/characters/margo-silverman.md)*  
-[Ms. ?? Hall](/characters/minor-characters.md#ms--hall)  
-[Aaron Woolbright](/characters/minor-characters.md#aaron-woolbright)  
-[Ross Cortes](/characters/minor-characters.md#ross-cortes)  
-[Leanne Sétanta](/characters/leanne-setanta.md)*  
-[Lenard ??](/characters/minor-characters.md#lenard-)  
 [Mia ?? Hill](/characters/minor-characters.md#mia--hill)  
-[Jason Hill](/characters/minor-characters.md#jason-hill)  
-[Sasha ??](/characters/minor-characters.md#sasha-)  
-[Adrian Sheridan](/characters/adrian-sheridan.md)*  
+[Jason Hill](/characters/minor-characters.md#jason-hill)
 [Nicholas Hampton](/characters/minor-characters.md#nicholas-hampton)  
-[Dominic Olmos](/characers/dominic-olmos.md)*  
 [Megan ??](/characters/minor-characters.md#megan-)  
 [Carla Morgan](/characters/minor-characters.md#carla-morgan)  
-[Danny Morgan](/characters/minor-characters.md#danny-morgan)  
-[Rosales Morgan](/characters/minor-characters.md#rosales-morgan)  
+[Rosales Morgan](/characters/minor-characters.md#rosales-morgan) 
+[Henry ??](/characters/minor-characters.md#henry-)  
+[Jesse Rivers](/characters/minor-characters.md#jesse-rivers)  
+[Iris Monroe](/characters/minor-characters.md#iris-monroe)  
+[Marco ??](/characters/minor-characters.md#marco-)  
+[Nate Monroe](/characters/minor-characters.md#nate-monroe)  
+[Allison Grey](/characters/minor-characters.md#allison-grey)  
+[Nick ??](/characters/minor-characters.md#nick-)  
+[Bonnie ??](/characters/minor-characters.md#bonnie-)  
+[Aaron Woolbright](/characters/minor-characters.md#aaron-woolbright)  
+[Ross Cortes](/characters/minor-characters.md#ross-cort  
 [Ash ??](/characters/minor-characters.md#ash-)  
 [Madison ??](/characters/minor-characters.md#madison-)  
 [Dylan Reed](/characters/minor-characters.md#dylan-reed)  
-[Michaela Donovan](/characters/michaela-donovan.md)*  
+[Dan ??](/characters/minor-characters.md#dan-)  
+
+## Off Screen Important Minor Characters
+
+[Zach ??](/characters/minor-characters.md#zach-)  
+[Alistair Jonathan Rosedale](/characters/minor-characters.md#alistair-jonathan-rosedale)  
+[Mia Elliot](/characters/minor-characters.md#mia-elliot)  
+[Adam Miller](/characters/minor-characters.md#adam-miller)  
+
+## Minor Characters
+
+[Mr. ?? Grey](/characters/minor-characters.md#mr--grey)  
+[Ms. ?? Hall](/characters/minor-characters.md#ms--hall)
+[Lenard ??](/characters/minor-characters.md#lenard-)  
+[Sasha ??](/characters/minor-characters.md#sasha-)  
 [Emma](/characters/minor-characters.md#emma)  
 [Emily](/characters/minor-characters.md#emily)  
-[Henry ??](/characters/minor-characters.md#henry-)  
 [Ralph Wood](/characters/minor-characters.md#ralph-wood)  
-
-## Steven Gamby
-
-## Maggie Wood
-
-## Ruby Wood
-
-## ?? Forster
-
-## Rhonda Flint
-
-## Anna
-
-## Dorthea
-
-## Avis
-
-## Charlie ??
-
-## Jesse Rivers
-
-## Ricky Rivers
-
-## Scott
-
-## Zach ??
-
-## Alistair Jonathan Rosedale
-
-## Fernando
-
-## Mia Elliot
-
-## Javier
-
-## Oma
-
-## Jena
-
-## Iris Monroe
-
-## Marco ??
-
-## Nate Monroe
-
-## Allison Grey
-
-## Nick ??
-
-## Dan ??
-
-## Bonnie ??
-
-## Adam Miller
-
-## Gerald
+[Steven Gamby](/characters/minor-characters.md#steven-gamby)  
+[Maggie Wood](/characters/minor-characters.md#maggie-wood)  
+[Ruby Wood](/characters/minor-characters.md#ruby-wood)  
+[?? Forster](/characters/minor-characters.md#-forster)  
+[Rhonda Flint](/characters/minor-characters.md#rhonda-flint)  
+[Anna](/characters/minor-characters.md#anna)  
+[Dorthea](/characters/minor-characters.md#dorthea)  
+[Avis](/characters/minor-characters.md#avis)  
+[Charlie ??](/characters/minor-characters.md#charlie-)  
+[Ricky Rivers](/characters/minor-characters.md#ricky-rivers)  
+[Scott](/characters/minor-characters.md#scott)  
+[Fernando](/characters/minor-characters.md#fernando)  
+[Javier](/characters/minor-characters.md#javier)  
+[Oma](/characters/minor-characters.md#oma)  
+[Jena](/characters/minor-characters.md#jena)  
+[Gerald](/characters/minor-characters.md#gerald) 
 
 
 
