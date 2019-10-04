@@ -41,5 +41,6 @@
 [Las Vegas](locations/las-vegas.md)  
 [Ward, CO](locations/ward-co.md)  
 * [Venatori Boulder HQ](/locations/ward-co.md#venatori-boulder-hq)  
+
 [Sanctuary](locations/havens.md#sanctuary)  
 [Fangtasia](locations/clubs.md#fangtasia)  
