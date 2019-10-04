@@ -22,37 +22,22 @@
 [Lenard ??](/characters/minor-characters.md#lenard-)  
 [Mia ?? Hill](/characters/minor-characters.md#mia--hill)  
 [Jason Hill](/characters/minor-characters.md#jason-hill)  
-[Sasha ??]/characters/minor-characters.md#sasha-)  
-
-## Adrian Sheridan
-
-## Nicholas Hampton
-
-## Dominic Olmos
-
-## Megan ??
-
-## Carla Morgan
-
-## Danny Morgan
-
-## Rosale Morgan
-
-## Ash ??
-
-## Madison ??
-
-## Dylan Reed
-
-## Michaela Donovan
-
-## Emma
-
-## Emily
-
-## Henry ??
-
-## Ralph Wood
+[Sasha ??](/characters/minor-characters.md#sasha-)  
+[Adrian Sheridan](/characters/adrian-sheridan.md)*  
+[Nicholas Hampton](/characters/minor-characters.md#nicholas-hampton)  
+[Dominic Olmos](/characers/dominic-olmos.md)*  
+[Megan ??](/characters/minor-characters.md#megan-)  
+[Carla Morgan](/characters/minor-characters.md#carla-morgan)  
+[Danny Morgan](/characters/minor-characters.md#danny-morgan)  
+[Rosales Morgan](/characters/minor-characters.md#rosales-morgan)  
+[Ash ??](/characters/minor-characters.md#ash-)  
+[Madison ??](/characters/minor-characters.md#madison-)  
+[Dylan Reed](/characters/minor-characters.md#dylan-reed)  
+[Michaela Donovan](/characters/michaela-donovan.md)*  
+[Emma](/characters/minor-characters.md#emma)  
+[Emily](/characters/minor-characters.md#emily)  
+[Henry ??](/characters/minor-characters.md#henry-_  
+[Ralph Wood]/characters/minor-characters.md#ralph-wood]  
 
 ## Steven Gamby
 
@@ -107,7 +92,6 @@
 ## Bonnie ??
 
 ## Adam Miller
-
 
 ## Gerald
 
