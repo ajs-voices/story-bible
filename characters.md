@@ -42,7 +42,7 @@
 [Nick ??](/characters/minor-characters.md#nick-)  
 [Bonnie ??](/characters/minor-characters.md#bonnie-)  
 [Aaron Woolbright](/characters/minor-characters.md#aaron-woolbright)  
-[Ross Cortes](/characters/minor-characters.md#ross-cort  
+[Ross Cortes](/characters/minor-characters.md#ross-cortes)  
 [Ash ??](/characters/minor-characters.md#ash-)  
 [Madison ??](/characters/minor-characters.md#madison-)  
 [Dylan Reed](/characters/minor-characters.md#dylan-reed)  
