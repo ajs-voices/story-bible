@@ -37,7 +37,7 @@
 [Emma](/characters/minor-characters.md#emma)  
 [Emily](/characters/minor-characters.md#emily)  
 [Henry ??](/characters/minor-characters.md#henry-)  
-[Ralph Wood](/characters/minor-characters.md#ralph-wood]  
+[Ralph Wood](/characters/minor-characters.md#ralph-wood)  
 
 ## Steven Gamby
 
