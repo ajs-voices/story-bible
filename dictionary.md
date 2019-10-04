@@ -1,21 +1,43 @@
 # Dictionary 
 
+## A
 **Ad Aetatem**  
-**Magnu**s  
-**Cesari**  
-**Venatori**  
-**Minorem**  
-**Scrin**  
-**Hunter**  
-**Marionette**  
-**Angel**  
-**Demon**  
-**Ghost**  
-**Vox Nihili**  
-**The Wicked Truth**  
-**Reaper**  
-**Chevalier**  
-**Ghoul**  
+**Angel** 
 **Auspex**
+
+## C
+**Cesari**  
+**Chevalier**  
+
+## D
+**Demon**  
+
+## F
 **Feras**  
+
+## H
+**Hunter**  
+
+## G 
+**Ghost**  
+**Ghoul**  
+
+## M 
+**Magnus**  
+**Marionette**  
+**Minorem**  
+
+## R 
+**Reaper**  
+
+## S
+**Scrin** 
+
+## V
+**Venatori**  
+**Vox Nihili**  
+
+## W 
+**The Wicked Truth**  
+
 
