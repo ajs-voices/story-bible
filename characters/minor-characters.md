@@ -1,18 +1,12 @@
 # Minor Characters
 
-## Dorian Vega
-
 ## Dae'lin Rivera
 
 ## Sage Morgan
 
-## Kai Viddens
-
 ## Mr. ?? Grey
 
 Modern Day Myth's teacher
-
-## Dr. Margo Silverman
 
 ## Ms. ?? Hall
 
@@ -21,8 +15,6 @@ teacher?
 ## Aaron Woolbright
 
 ## Ross Cortes
-
-## Leanne Sétanta
 
 ## Lenard ??
 
@@ -36,12 +28,7 @@ owner of Lenard's Fish mart
 
 hostess at Lenard's Fish mart
 
-## Adrian Sheridan
-
 ## Nicholas Hampton
-
-## Dominic Olmos
-
 ## Megan ??
 
 Mia's mom & Dr. Silverman's receptionist
@@ -61,8 +48,6 @@ Venatori tattoo artist - transgender
 Nox's first
 
 ## Dylan Reed
-
-## Michaela Donovan
 
 ## Emma
 
