@@ -1,7 +1,7 @@
 # Timeline
 
 | Date | |
-|======|=|
+|------|-|
 | | Cari's born |
 | | Tony's born |
 | | Cari and Tony meet|
