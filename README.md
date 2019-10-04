@@ -7,3 +7,4 @@ A Story Bible by AJ Hunter
 [Organizations](/organizations.md)  
 [Lore](/lore.md)  
 [Notes](/notes.md)  
+[Dictionary](/dictionary.md)  
