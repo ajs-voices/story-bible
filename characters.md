@@ -17,7 +17,7 @@
 [Dominic Olmos](/characers/dominic-olmos.md)  
 [Danny Morgan](/characters/danny-morgan.nd)    
 [Michaela Donovan](/characters/michaela-donovan.md)  
-[Poet Rhemus](/characters/poet-rhemus.md*  
+[Poet Rhemus](/characters/poet-rhemus.md)   
 [Laker Rivers](/characters/laker-rivers.md)  
 [Rider Rivers](/characters/rider-rivers.md)  
 [Ryan Elliot](/characters/ryan-elliot.md)  
