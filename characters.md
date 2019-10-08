@@ -14,7 +14,7 @@
 [Leanne Sétanta](/characters/leanne-setanta.md)  
 [Dr. Margo Silverman](/characters/margo-silverman.md)  
 [Adrian Sheridan](/characters/adrian-sheridan.md)  
-[Dominic Olmos](/characers/dominic-olmos.md)  
+[Dominic Olmos](/characters/dominic-olmos.md)  
 [Danny Morgan](/characters/danny-morgan.nd)    
 [Michaela Donovan](/characters/michaela-donovan.md)  
 [Poet Rhemus](/characters/poet-rhemus.md)   
