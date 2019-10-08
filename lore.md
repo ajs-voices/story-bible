@@ -29,10 +29,10 @@
 [Ghosts](lore/races/ghosts.md)  
 [Ascendant](lore/races/ascendant.md) - special  
 
-## Magic Systems
+## [Magic Systems](lore/magic/umbra.md) aka The [Umbra](lore/magic/umbra.md)
 
-[Magnus](lore/magnus.md)  
-[Paths](lore/paths.md)  
-[Wiccan](lore/wiccan.md)  
-[Bloodlines](lore/bloodlines.md)  
-[Runes](lore/runes.md)  
+[Magnus](lore/magic/magnus.md)  
+[Paths](lore/magic/paths.md)  
+[Wiccan](lore/magic/wiccan.md)  
+[Bloodlines](lore/magic/bloodlines.md)  
+[Runes](lore/magic/runes.md)  
