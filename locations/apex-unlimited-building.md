@@ -1,7 +1,6 @@
 # Apex Unlimited Building
 
-# Apex Unlimited
-
+## Apex Unlimited (Corporation) 
 Apex Unlimited is owned by the Eriksen family.  A very old Venatori family.  The Eriksen family controls 80% of the Venatori assets through Apex Unlimited or a subsidary.
 
 Apex Unlimited maintains offices around the world.  The company's main headquarters is located in New York City.
