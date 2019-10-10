@@ -9,7 +9,7 @@ South of Central park is Manhattan Wolf Pack territory
 Hell's Kitchen is Lone Wolf Pack territory
 Upper East & West sides including Central park (middle section of Manhattan island) is Neutral/Venatori controlled territory  
 
-![Neighborhoods of NYC](https://github.com/ajs-voices/story-bible/blob/master/images/800px-Manhattan_neighborhoods.png)
+![Neighborhoods of NYC](../images/800px-Manhattan_neighborhoods.png)
 
 ## Locations
 
