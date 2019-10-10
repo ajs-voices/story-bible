@@ -10,6 +10,7 @@ Apex Unlimited maintains offices around the world.  The company's main headquart
 
 The AU building is 1200 feet high and approximately 2,100,00 square feet of usable realistate.  The building is 55 stories high with 3 basement levels - half of which is designated for business use outside of the Venatori.  However many of the business of the Venatori are in this building in those levels.
 
+```
 ____________________
 | Penthouse level  | 1 floor
 | ---------------- |
@@ -62,3 +63,4 @@ ____________________
 | IT &             | 3 floors
 | Maintenance      |
 |__________________|
+```
